@@ -1,0 +1,7 @@
+version: 2
+build:
+  command: npm install
+  environment:
+    NODE_VERSION: 16.20.2
+deployments:
+  # 可以根据需要添加其他部署相关的配置
