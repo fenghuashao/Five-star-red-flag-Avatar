@@ -1,7 +1,7 @@
 {
   "engines": {
     "node": "16.20.2"
-  }
+  },
   "private": true,
   "scripts": {
     "start": "umi dev",
